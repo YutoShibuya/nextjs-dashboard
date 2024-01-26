@@ -1,5 +1,6 @@
 import '@/app/ui/global.css';
-import { inter } from './ui/fonts';
+import { Inter } from 'next/font/google';
+// import { inter } from './fonts';
 
 export default function RootLayout({
   children,
